@@ -1,5 +1,7 @@
 # ajax-type-ahead
 
+> Search for US Cities :sunglasses:
+
 # Screenshot
 
 ![Search Cities](http://imgur.com/gv5LYMw.png)
