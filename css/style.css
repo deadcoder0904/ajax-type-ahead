@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Exo');
+
+html {
+	background: linear-gradient(-6deg, rgb(23, 62, 74), rgb(20, 55, 90));
+	min-height: 100%;
+	color: hsla(142, 53%, 49%, 0.61);
+	font-family: cursive;
+	text-align: center;
+}
+
+#headline {
+	font-size: 3.5rem;
+}
+
+#city {
+	font-family: 'Exo';
+	width: 40%;
+	height: 10vh;
+  border-bottom-left-radius: 400px;
+  border-top-right-radius: 400px;
+	outline: none;
+	text-align: center;
+	font-size: 4vh;
+	color: #6053da;
+	background: #1c1b1b;
+}
+
+.display-cities {
+	color: white;
+	font-size: 2rem;
+	text-align: center;
+	padding: 1rem;
+	margin: 1rem;
+}
+
+.display-cities span {
+	padding: 1rem;
+	background: hsla(142, 53%, 49%, 0.61);
+}
+
+.h {
+	color: #BADA55;
+}
